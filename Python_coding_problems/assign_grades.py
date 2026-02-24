@@ -14,6 +14,6 @@ else:
     print("Grade F")
 
 ## output
-PS C:\Users\hp\OneDrive\Desktop\python_coding_problems> python grades_marks.py
+PS C:\Users\hp\OneDrive\Desktop\python_coding_problems> python assign_grades.py
 98
 Grade A
